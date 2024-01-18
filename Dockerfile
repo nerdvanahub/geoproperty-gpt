@@ -12,4 +12,4 @@ COPY . .
 RUN pip install -r requirements.txt
 
 # Path: /app
-CMD ["python", "app.py"]
+CMD ["python", "-W", "ignore", "-m", "jurigged", "-v", "app.py"]

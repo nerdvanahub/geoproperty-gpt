@@ -1,4 +1,7 @@
 pyfiglet
 langchain
-langchain-google-gena
+langchain-google-genai
 grpcio-tools
+jurigged
+python-dotenv
+psycopg2
