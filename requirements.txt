@@ -1,0 +1,4 @@
+pyfiglet
+langchain
+langchain-google-gena
+grpcio-tools
